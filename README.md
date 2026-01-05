@@ -26,7 +26,7 @@ A two-player tank battle game developed in Java for the Operating Systems Concep
 ### **Player 2 (Right Tank - Gray)**
 - **←/→** = Move left/right
 - **↑/↓** = Increase/decrease angle (90° to 180°)
-- **O/P** = Increase/decrease power
+- **P/L** = Increase/decrease power
 - **SPACEBAR** = Fire projectile
 
 ## 🛠️ Requirements
@@ -36,4 +36,4 @@ A two-player tank battle game developed in Java for the Operating Systems Concep
 ## 📦 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TankGame-UTM.git
+   git clone https://github.com/SahilAukhaj/TankGame-UTM.git
