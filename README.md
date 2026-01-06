@@ -17,15 +17,15 @@ A two-player tank battle game developed in Java for the Operating Systems Concep
 - **2 Lives system** - Each player has 2 lives
 
 ## 🎯 Controls
-### **Player 1 (Left Tank - Black)**
+### **Player 1 (Left Tank - Blue)**
 - **A/D** = Move left/right
-- **W/S** = Increase/decrease angle (0° to 90°)
+- **W/S** = Increase/decrease angle (12'o clock to 3'o clock)
 - **Q/E** = Increase/decrease power
 - **SPACEBAR** = Fire projectile
 
 ### **Player 2 (Right Tank - Gray)**
 - **←/→** = Move left/right
-- **↑/↓** = Increase/decrease angle (90° to 180°)
+- **↑/↓** = Increase/decrease angle (9'o clock to 12'o clock)
 - **P/L** = Increase/decrease power
 - **SPACEBAR** = Fire projectile
 
